@@ -1,4 +1,5 @@
 # Income_Tax_Calculator
+![frontp](https://github.com/TuShArBhArDwA/Income_Tax_Calculator/assets/116137083/bcb617b3-29af-40ca-9298-09d5e298109c)
 The Income Tax Calculator is a C language project that allows users to calculate their income tax based on their taxable income. 
 This calculator ensures data security by incorporating password-protected encryption before running the project. 
 Additionally, the project utilizes a color header file, which enhances the visual output, making it beautiful and attractive.
